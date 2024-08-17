@@ -1,0 +1,10 @@
+vim
+htop
+git
+code
+vlc
+github-desktop-bin
+cmatrix
+aalib
+fastfetch
+cpufetch
